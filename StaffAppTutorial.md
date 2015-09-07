@@ -9,4 +9,4 @@
 8. Paste the questions into the box
 9. Answer the questions in the space below the questions
 7. Click submit
-#### Congrats you just applied for staff, and an Admin should reply within 24 hours.
+8. Congrats you just applied for staff, and an Admin should reply within 24 hours.
