@@ -7,3 +7,4 @@
 5. Do /wild to teleport randomly into the wilderness
 6. There are special arrows, refer to [http://i.imgur.com/tICcIJq.gifv](http://i.imgur.com/tICcIJq.gifv) for crafting instruction
 7. If you want someone killed do /bounty, to list bounties do /bounties, keep in mind you can not take back bounties so choose wisely!
+8. There are shields! Craft an orange banner for a wooden shield!
