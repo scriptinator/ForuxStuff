@@ -9,4 +9,5 @@
 7. If you want someone killed do /bounty, to list bounties do /bounties, keep in mind you can not take back bounties so choose wisely!
 8. There are shields! Do /shop to buy them.
 9. Airdrops drop every 30 minutes. Their coordinates will be broadcasted in chat.
-10. For detailed instructions on how to apply for staff, refer to this link [https://github.com/scriptinator/ForuxStuff/blob/master/StaffAppTutorial.md](https://github.com/scriptinator/ForuxStuff/blob/master/StaffAppTutorial.md)
+10. People can steal your money if you are killed! Be careful!
+11. For detailed instructions on how to apply for staff, refer to this link [https://github.com/scriptinator/ForuxStuff/blob/master/StaffAppTutorial.md](https://github.com/scriptinator/ForuxStuff/blob/master/StaffAppTutorial.md)
